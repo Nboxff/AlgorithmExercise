@@ -17,3 +17,4 @@
 #### 数论
 - 洛谷 P3383 【模板】线性筛素数 [/math/euler_sieve.cpp](/math/euler_sieve.cpp)
 - 洛谷 P1082 [NOIP2012 提高组] 同余方程 [/math/p1082.cpp](/math/p1082.cpp)
+- 洛谷 P2054 [AHOI2005] 洗牌 [/math/p2054.cpp](/math/p2054.cpp)
