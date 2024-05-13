@@ -37,6 +37,10 @@
 #### 树形DP
 - 洛谷 P1352 没有上司的舞会 [/dp/p1352.cpp](/dp/p1352.cpp)
 - 洛谷 P2014 [CTSC1997] 选课 [/dp/p2014.cpp](/dp/p2014.cpp)
+- 洛谷 P3478 [POI2008] STA-Station [/dp/p3478.cpp](/dp/p3478.cpp)
+
+#### 状压DP
+- 洛谷 P1896 [SCOI2005] 互不侵犯 [/dp/p1896.cpp](/dp/p1896.cpp)
 
 #### 数位DP
 - 洛谷 P2602 [ZJOI2010] 数字计数 [/dp/p2602.cpp](/dp/p2602.cpp)
