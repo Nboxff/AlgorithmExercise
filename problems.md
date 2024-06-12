@@ -4,6 +4,9 @@
 #### 二分
 - 力扣100257.找出唯一性数组的中位数[/basic/leetcode100257.cpp](/basic/leetcode100257.cpp)
 
+#### 排序
+- [归并排序求逆序对](/datastructure/mergesort.cpp)
+
 ### 图论 
 #### 树的直径
 - 洛谷 P3304 [SDOI2013] 直径 [/tree/p3304.cpp](/tree/p3304.cpp)
@@ -44,3 +47,19 @@
 
 #### 数位DP
 - 洛谷 P2602 [ZJOI2010] 数字计数 [/dp/p2602.cpp](/dp/p2602.cpp)
+
+### STL 和 gcc 提供的宏
+
+- nth.cpp
+- unique.cpp
+- bitcount.cpp
+
+## 比赛题单
+
+> See http://150.158.147.166:8086/
+
+### comp1 第一场模拟赛
+
+### comp2 第二场模拟赛
+
+### comp3 第三场模拟赛
